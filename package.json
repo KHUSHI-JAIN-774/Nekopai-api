@@ -19,6 +19,7 @@
     "express": "^4.18.2",
     "express-async-handler": "^1.2.0",
     "githubinator": "^0.0.2",
+    "mumaker": "^1.0.0",
     "node-fetch": "^3.2.6",
     "youtube-yts": "^2.0.0"
   }
